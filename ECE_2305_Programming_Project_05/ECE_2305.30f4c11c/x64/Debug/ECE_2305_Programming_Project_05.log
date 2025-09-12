@@ -1,0 +1,11 @@
+﻿  ECE_2305_Programming_Project_05.cpp
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(27,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(32,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(40,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(45,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(73,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(84,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(88,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(99,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\ECE_2305_Programming_Project_05.cpp(104,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ECE_2305_Programming_Project_05.vcxproj -> C:\Users\jacks\source\repos\ECE_2305_Programming_Project_05\x64\Debug\ECE_2305_Programming_Project_05.exe

@@ -1,0 +1,5 @@
+﻿  ECE_2305_Programming_Project_06.cpp
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_06\ECE_2305_Programming_Project_06.cpp(18,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_06\ECE_2305_Programming_Project_06.cpp(37,7): warning C4101: 'letter': unreferenced local variable
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_06\ECE_2305_Programming_Project_06.cpp(96,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ECE_2305_Programming_Project_06.vcxproj -> C:\Users\jacks\source\repos\ECE_2305_Programming_Project_06\x64\Debug\ECE_2305_Programming_Project_06.exe
