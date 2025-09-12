@@ -1,0 +1,6 @@
+﻿  ECE_2305_Tutorial_03.cpp
+C:\Users\jacks\source\repos\ECE_2305_Tutorial_03\ECE_2305_Tutorial_03.cpp(29,16): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\jacks\source\repos\ECE_2305_Tutorial_03\ECE_2305_Tutorial_03.cpp(29,16): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\jacks\source\repos\ECE_2305_Tutorial_03\ECE_2305_Tutorial_03.cpp(29,28): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\jacks\source\repos\ECE_2305_Tutorial_03\ECE_2305_Tutorial_03.cpp(29,28): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  ECE_2305_Tutorial_03.vcxproj -> C:\Users\jacks\source\repos\ECE_2305_Tutorial_03\x64\Debug\ECE_2305_Tutorial_03.exe
