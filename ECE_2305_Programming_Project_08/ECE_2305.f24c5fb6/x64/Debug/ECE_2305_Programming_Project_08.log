@@ -1,0 +1,3 @@
+﻿  ECE_2305_Programming_Project_08.cpp
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_08\ECE_2305_Programming_Project_08.cpp(60,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ECE_2305_Programming_Project_08.vcxproj -> C:\Users\jacks\source\repos\ECE_2305_Programming_Project_08\x64\Debug\ECE_2305_Programming_Project_08.exe

@@ -1,0 +1,4 @@
+﻿  ECE_2305_Programming_Project_09.cpp
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_09\ECE_2305_Programming_Project_09.cpp(15,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jacks\source\repos\ECE_2305_Programming_Project_09\ECE_2305_Programming_Project_09.cpp(60,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ECE_2305_Programming_Project_09.vcxproj -> C:\Users\jacks\source\repos\ECE_2305_Programming_Project_09\x64\Debug\ECE_2305_Programming_Project_09.exe
